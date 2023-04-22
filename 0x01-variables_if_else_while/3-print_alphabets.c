@@ -1,7 +1,7 @@
 #include <stdio.h
 
 /**
- * main - prints alpha in lower and upper case
+ * main - Entry point
  * Return: Always 0
  */
 int main(void)
