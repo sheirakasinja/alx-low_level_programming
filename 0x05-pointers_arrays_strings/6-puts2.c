@@ -3,7 +3,7 @@
 #include <stdlib.h>
 
 /**
- * puts - prints xters of a string
+ * puts2 - prints xters of a string
  * @str: used string reference
  * Return: Always 0
  */
