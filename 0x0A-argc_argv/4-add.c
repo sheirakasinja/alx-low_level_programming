@@ -31,13 +31,12 @@ if
 		return (1);
 	}
 
-
 /**
  * main - Print the name of the program
  * @argc: Count arguments
  * @argv: Arguments
  *
- * Return: Always 0 (Success)
+ * Return: 0 (Success)
  */
 
 int main(int argc, char *argv[])
@@ -59,7 +58,6 @@ int main(int argc, char *argv[])
 				/*ATOI --> convert string to int*/
 				sum += str_to_int;
 			}
-
 
 /*Condition if one of the number contains symbols that are not digits*/
 			else
