@@ -1,8 +1,8 @@
-#include "main.h"
+#include  "main.h"
 #include <stdio.h>
 
 /**
- * _strlen - checks the length of a string
+ * _strlen - checks the length of the string
  * @s: string to be checked
  * Return: The length of the string
  */
